@@ -1,2 +1,2 @@
 # Graph-Data-with-LLMs-Neo4j-exploration-project-
-I used LLM data (from GPT-4) to produce a graph in the Neo4j visual database. Neo4j is a very versatile tool that can use LLM text output as a means of visualization and presentation to understand how LLMs process data (similar to GraphRAG technology).
+I used LLM data (from GPT-4) to produce a graph in the Neo4j visual database. Neo4j is a very versatile tool that can use LLM text output as a means of visualization and presentation to understand how LLMs process data (in a graph database format). It displays data using a Node/Edge format, and can be written in Cypher Query Language (similar to SQL). Example code and a PDF of the exploration project can be found in this repository. 
